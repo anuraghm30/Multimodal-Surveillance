@@ -1,10 +1,10 @@
-🎥 Multimodal Surveillance System
+# 🎥 Multimodal Surveillance System
 
 The Multimodal Surveillance System is an AI-powered surveillance project designed to monitor environments and detect unusual activities using computer vision and machine learning techniques.
 
 The system analyzes visual data from surveillance footage and applies intelligent processing to identify anomalies or suspicious activities, helping improve security monitoring and automated threat detection.
 
-🚀 Features
+# 🚀 Features
 
 🎥 Video Surveillance Monitoring
 Processes surveillance video feeds for analysis.
@@ -21,7 +21,7 @@ Uses computer vision algorithms to analyze frames.
 🔍 Automated Security Monitoring
 Helps reduce manual surveillance efforts.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 🧠 Machine Learning & AI
 
@@ -42,7 +42,7 @@ NumPy
 Pandas
 Matplotlib
 
-🧰 Development Tools
+# 🧰 Development Tools
 
 Python
 Jupyter Notebook / Python Scripts
